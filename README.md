@@ -1,16 +1,22 @@
-## Hi there 👋
+# Ринат Каримов
 
-<!--
-**RR1nat/RR1nat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий аналитик данных из Нижнего Новгорода. Окончил Самарский университет по направлению «Фундаментальная информатика и информационные технологии».
 
-Here are some ideas to get you started:
+Работаю с SQL, Python и Excel. Создаю инструменты для сбора, проверки и анализа данных и применяю LLM там, где результат можно проверить кодом.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Основной проект
+
+**JobPilot AI** — сервис для сбора и приоритизации вакансий. Он получает вакансии через официальный API hh.ru, удаляет дубли, объясняет совпавшие и недостающие навыки, готовит черновик сопроводительного письма и ведёт воронку откликов.
+
+## Стек
+
+`SQL` `PostgreSQL` `Python` `pandas` `Power BI` `Excel` `REST API` `SQLite` `Git`
+
+## Что ищу
+
+Первую позицию аналитика данных или BI-аналитика. Рассматриваю работу в Нижнем Новгороде и удалённо.
+
+## Контакты
+
+- Telegram: [@flyyyyyer](https://t.me/flyyyyyer)
+- Email: [rinat.karimov.03.03@mail.ru](mailto:rinat.karimov.03.03@mail.ru)
