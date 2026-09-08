@@ -1,6 +1,6 @@
 # Ринат Каримов
 
-**Data Analyst · SQL · Python · pandas · Excel**
+**Data Analyst · SQL · Python · BI · Excel**
 
 ## Компетенции
 
